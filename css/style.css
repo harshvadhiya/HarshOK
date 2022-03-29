@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #eaf6f6;
+    height: auto;
+    width: auto;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 20%;    
+}
+.top-cloud{
+    margin: 10px;
+    position: relative;
+    top:30%; left: 20%;
+}
+.mountain{
+    height: 40%;
+    width: 40%;
+}
+.main-title {
+    font-size: 375%;
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    line-height: 2;
+}h2{
+    color: #66BFBF;
+    text-align: center;
+}h3{
+    color: #66bfbf;
+    text-align: center;
+}hr {
+    background-color: #ffffff;
+    border-style: dotted none none;
+    border-width: 6px;
+    border-color: #677a7a;
+    width: 5%;
+}
+.skills{
+    text-align: left;
+    line-height: 2;
+    width: 40%;
+    margin: 50px auto;
+}.skill-row{
+    margin: 50px auto; 
+}.coding-image{
+    width: auto;
+    height: 200px;
+    float: left;
+    margin-right: 20px;
+}.chillies-image{
+    width: auto;
+    height: 200px;
+    float: right;
+    margin-left: 20px;
+}.btn {
+    background: #78cfcf;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    margin: 100px auto;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #669cbd;
+    background-image: -webkit-linear-gradient(top, #669cbd, #4c7073);
+    background-image: -moz-linear-gradient(top, #669cbd, #4c7073);
+    background-image: -ms-linear-gradient(top, #669cbd, #4c7073);
+    background-image: -o-linear-gradient(top, #669cbd, #4c7073);
+    background-image: linear-gradient(to bottom, #669cbd, #4c7073);
+    text-decoration: none;
+  }
+
+.bottom-container{
+    margin: 50px auto 0 auto;
+    background-color: #66bfbf;
+    padding-top: 50px;
+}.footer-link{
+    color: #11999e;
+    font-weight: bolder;
+    font-size: larger;
+}
