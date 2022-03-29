@@ -22,11 +22,13 @@ a{
 .bottom-cloud{
     position: absolute;
     left: 20%;    
+    width: 20%;
 }
 .top-cloud{
     margin: 10px;
     position: relative;
     top:30%; left: 20%;
+    width: 20%;
 }
 .mountain{
     height: 40%;
